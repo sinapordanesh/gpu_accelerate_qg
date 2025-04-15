@@ -1,7 +1,7 @@
 # A GPU-Accelerated code for Quasi-Geostrophic simulation 
 
 CUDA-accelerated implementation of a Quasi-Geostrophic (QG) flow simulation using spectral methods with adaptive RK4 time integration. Originated from a MATLAB code implementation. 
-The acceleration methodology follows the proposed method in [A GPU-accelerated simulation of rapid intensification of a tropical cyclone with observed heating]([https://arxiv.org/pdf/2504.08157](https://www.researchgate.net/publication/390668201_A_GPU-accelerated_simulation_of_rapid_intensification_of_a_tropical_cyclone_with_observed_heating_Journal_Title_XXX1-10)).
+The acceleration methodology follows the proposed method in [A GPU-accelerated simulation of rapid intensification of a tropical cyclone with observed heating](https://www.researchgate.net/publication/390668201_A_GPU-accelerated_simulation_of_rapid_intensification_of_a_tropical_cyclone_with_observed_heating_Journal_Title_XXX1-10).
 
 ## Requirements
 
